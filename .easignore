@@ -1,0 +1,24 @@
+# Unnecessary for builds
+backend/
+node_modules/
+android/.gradle/
+android/.idea/
+ios/
+scripts/
+inspect-output/
+*.log
+.DS_Store
+
+# Expo/Metro artifacts
+.expo/
+.expo-shared/
+
+# Git stuff
+.git/
+.gitignore
+
+# Other common things
+coverage/
+.env*
+*.bak
+*.tmp
