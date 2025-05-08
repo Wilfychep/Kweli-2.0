@@ -1,50 +1,33 @@
-# Welcome to your Expo app 👋
+# Kweli - Zero-Knowledge Identity Verification 🔒
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+[![Expo](https://img.shields.io/badge/expo-6.5.0-blue.svg)](https://expo.io/)
+[![StarkNet](https://img.shields.io/badge/starknet-0.12-green.svg)](https://starknet.io/)
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
-## Get started
+A mobile-first platform for privacy-preserving identity verification using ZK-proofs on StarkNet.
 
-1. Install dependencies
+## ✨ Key Features
+- **ZK Identity Proofs**: Verify without revealing sensitive data
+- **Cross-Platform**: iOS/Android support via Expo
+- **Gas-Efficient**: StarkNet smart contract integration
+- **Academic Integration**: Secure credential verification
 
-   ```bash
-   npm install
-   ```
+## 🛠 Tech Stack
+| Component       | Technology               |
+|-----------------|--------------------------|
+| Frontend        | Expo (React Native), TypeScript |
+| Backend         | Python, FastAPI          |
+| Blockchain      | StarkNet, Cairo          |
+| State Management| Zustand                  |
 
-2. Start the app
-
-   ```bash
-    npx expo start
-   ```
-
-In the output, you'll find options to open the app in a
-
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
-
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
-
-## Get a fresh project
-
-When you're ready, run:
-
+## 🚀 Quick Start
 ```bash
-npm run reset-project
-```
+# Clone repository
+git clone https://github.com/Wilfychep/Kweli-2.0.git
+cd kweli-frontend
+npm install
+npx expo start
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
 
-## Learn more
-
-To learn more about developing your project with Expo, look at the following resources:
-
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+📜 License
+MIT © Wilfred Chepkwony
