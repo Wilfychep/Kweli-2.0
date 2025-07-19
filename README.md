@@ -76,3 +76,5 @@ Lead Dev & ZK Architect: Chepkwony
 AI Engineer: Omar
 📜 License
 MIT 
+Press Release
+https://disruptafrica.com/2025/07/14/kenyas-vumah-labs-joins-fastercapital-launchup-programme/
