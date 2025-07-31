@@ -6,7 +6,7 @@ Kweli is a youth-centered, privacy-preserving platform that combines AI-based de
 
 📸 From verifying deepfakes to securing media evidence, Kweli is building tools for digital justice in the age of disinformation.
 
-🔐 Support the mission: Sponsor our work on GitHub
+🔐 Support the mission: [Sponsor our work on GitHub](https://github.com/sponsors/Wilfychep)
 ---
 
 ## 🌍 Project Goals
