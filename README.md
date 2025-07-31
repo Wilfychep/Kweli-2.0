@@ -2,6 +2,11 @@
 
 Kweli is a youth-centered, privacy-preserving platform that combines AI-based deepfake detection with Zero-Knowledge (ZK) cryptography to verify digital media authenticity. Built for communities, schools, and mobile-first users in Africa, Kweli empowers users to fight misinformation with truth, proof, and transparency.
 
+⚖️ Kweli is a work-in-progress to empower African institutions and civic actors with privacy-first truth verification tools and powered by Zero-Knowledge cryptography.
+
+📸 From verifying deepfakes to securing media evidence, Kweli is building tools for digital justice in the age of disinformation.
+
+🔐 Support the mission: Sponsor our work on GitHub
 ---
 
 ## 🌍 Project Goals
@@ -76,5 +81,6 @@ Lead Dev & ZK Architect: Chepkwony
 AI Engineer: Omar
 📜 License
 MIT 
-Press Release
+
+Find us in the press:
 https://disruptafrica.com/2025/07/14/kenyas-vumah-labs-joins-fastercapital-launchup-programme/
